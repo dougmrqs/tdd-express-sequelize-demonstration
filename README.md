@@ -5,10 +5,10 @@ As seen on Rocketseat's class: https://youtu.be/2G_mWfG0DZE
 
 
 ### Sequelize cheat sheet    
-Create a migration
-`npx sequelize migration:create --name=create-users`
-Migrate to latest
-`npx sequelize-cli db:migrate`
+Create a migration    
+`npx sequelize migration:create --name=create-users`    
+Migrate to latest    
+`npx sequelize-cli db:migrate`    
 
 
 #### NOTE:
